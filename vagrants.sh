@@ -27,7 +27,7 @@ elif [ $1 == 'l55' ]; then
   cd ~/vagrants/lemp559 && $COMMAND
 elif [ $1 == 'x' ]; then
   cd ~/vagrants/xenial && $COMMAND
-elif [ $1 == 'homestead' ]; then
+elif [ $1 == 'h' ]; then
   cd ~/Homestead && $COMMAND
 elif [ $1 == 'lamp53' ]; then
   cd ~/vagrants/lamp53 && $COMMAND
